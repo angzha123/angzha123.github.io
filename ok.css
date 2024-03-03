@@ -1,3 +1,10 @@
 body {
-   background-color: lightblue;
+
+    background-color: lightblue;
+ }
+ 
+h1{
+    text-align:center;
+    padding:70px;
+    background-color:lightyellow;
 }
