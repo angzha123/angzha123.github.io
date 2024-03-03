@@ -1,9 +1,10 @@
 body {
 
     background-color: lightgreen;
-    h1{
-        text-align:center;
-        padding:70px;
-        background-color:lightyellow;
-    }
+    
  }
+ h1{
+    text-align:center;
+    padding:70px;
+    background-color:lightyellow;
+}
