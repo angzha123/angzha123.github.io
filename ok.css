@@ -4,15 +4,13 @@ body {
  h1{
     text-align:center;
     padding:50px;
-    background-color:white
-    ;
+    background-color:white;
     
 }
-.div p1{
-    img{
-        width:600px;
-        height:600px;
-        padding:50px;
-        left:20px;
-    }
+.p1 img{
+
+    width:500px;
+    height:500px;
+    padding:50px;
+    left:20px;
 }
