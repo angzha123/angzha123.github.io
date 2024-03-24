@@ -1,7 +1,9 @@
-
+body {
+    background-color: white;
+ }
  h1{
     text-align:center;
-    padding:30px;
+    padding:50px;
     
 }
 .p1 img{
